@@ -2,404 +2,357 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07394993-1337-4e31-ba08-c04c08172a44" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_ca.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_de.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_el.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_en.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_es.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_fr.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_it.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_ko.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_nl.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_no.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_pl.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_pt.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_pt_BR.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_tr.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_zh.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_zh_CN.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ApplicationResources_zh_TW.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/META-INF/persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/accountCreated.vm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/applicationContext-resources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/BaseFormController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/FileUpload.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/FileUploadController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/PasswordHintController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/ReloadController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/SignupController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/UpdatePasswordController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/UserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/UserFormController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/filter/LocaleFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/filter/LocaleRequestWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/jsp/EscapeXml.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/jsp/EscapeXmlELResolver$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/jsp/EscapeXmlELResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/jsp/EscapeXmlELResolverListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/listener/StartupListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/listener/UserCounterListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/spring/ValidatorExtensionPostProcessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/taglib/ConstantsTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/taglib/ConstantsTei.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/taglib/CountryTag$LabelValueComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/taglib/CountryTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/taglib/LabelTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/taglib/OutTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/util/RequestUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/util/ValidationUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/default-data.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/displaytag.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/displaytag_ca.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/displaytag_el.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/displaytag_en.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/displaytag_es.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/displaytag_fr.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/displaytag_pt.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/displaytag_tr.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/displaytag_zh.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/displaytag_zh_CN.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/displaytag_zh_TW.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/ehcache.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/hibernate.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/log4j2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/mail.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/navbarMenu.vm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/navlistMenu.vm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/packaged/hibernate.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/passwordRecovery.vm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/passwordUpdated.vm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/velocity.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/403.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/404.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/appfuse.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/applicationContext-validation.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_ca.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_de.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_el.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_en.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_es.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_fr.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_it.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_ko.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_nl.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_no.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_pl.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_pt.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_pt_BR.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_tr.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_zh.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_zh_CN.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_zh_TW.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/META-INF/persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/accountCreated.vm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/applicationContext-resources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/BaseFormController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/FileUpload.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/FileUploadController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/PasswordHintController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/ReloadController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/SignupController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/UpdatePasswordController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/UserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/UserFormController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/filter/LocaleFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/filter/LocaleRequestWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/jsp/EscapeXml.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/jsp/EscapeXmlELResolver$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/jsp/EscapeXmlELResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/jsp/EscapeXmlELResolverListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/listener/StartupListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/listener/UserCounterListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/spring/ValidatorExtensionPostProcessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/taglib/ConstantsTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/taglib/ConstantsTei.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/taglib/CountryTag$LabelValueComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/taglib/CountryTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/taglib/LabelTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/taglib/OutTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/util/RequestUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/util/ValidationUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/default-data.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_ca.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_el.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_en.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_es.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_fr.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_pt.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_tr.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_zh.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_zh_CN.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_zh_TW.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ehcache.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/hibernate.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/log4j2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/mail.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/navbarMenu.vm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/navlistMenu.vm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/packaged/hibernate.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/passwordRecovery.vm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/passwordUpdated.vm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/velocity.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/cxf-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/decorators.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/dispatcher-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/dwr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/activation-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/appfuse-data-common-3.5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/appfuse-hibernate-3.5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/appfuse-service-3.5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/appfuse-web-common-3.5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/asm-3.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/aspectjrt-1.8.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/avro-1.7.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bcmail-jdk14-1.38.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bcmail-jdk14-138.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bcprov-jdk14-1.38.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bcprov-jdk14-138.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bctsp-jdk14-1.38.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bootstrap-3.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bootstrap-datepicker-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bootswatch-spacelab-3.3.1+2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.9.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-chain-1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-compress-1.4.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-dbcp-1.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-digester-2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-lang-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.3.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-pool-1.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-validator-1.3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-core-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-bindings-soap-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-bindings-xml-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-databinding-jaxb-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-frontend-jaxrs-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-frontend-jaxws-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-frontend-simple-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-transports-http-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-ws-addr-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-ws-policy-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-wsdl-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/displaytag-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/dwr-2.0.10.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/ehcache-core-2.6.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/ehcache-web-2.0.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-4.0.5.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-core-4.3.6.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-ehcache-4.3.6.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-search-4.5.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-search-analyzers-4.5.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-search-engine-4.5.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-search-orm-4.5.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/itext-2.1.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.4.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.4.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.4.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-jaxrs-base-2.4.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-jaxrs-json-provider-2.4.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-module-jaxb-annotations-2.4.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jandex-1.1.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.18.1-GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/javax.annotation-api-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/javax.ws.rs-api-2.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jaxb-api-2.2.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jaxb-core-2.2.10-b140310.1920.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jaxb-impl-2.2.10-b140310.1920.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.2.0.Beta1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-annotations-1.2.0.Beta1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jquery-1.11.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jquery-cookie-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/js-1.6R2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2-api-2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-api-2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-core-2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-jcl-2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-slf4j-impl-2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-web-2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-analyzers-3.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-core-3.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-facet-3.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-smartcn-3.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-stempel-3.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/mail-1.4.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/mockito-core-1.10.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.27.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/neethi-3.0.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/objenesis-2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/one-core-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/oro-2.0.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/paranamer-2.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/sitemesh-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/solr-analysis-extras-3.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-1.9.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-ldap-core-2.0.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-modules-validation-0.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-security-acl-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-security-config-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-security-core-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-security-ldap-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-security-taglibs-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-security-web-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/sslext-1.2-0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/stax2-api-3.1.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/struts-core-1.3.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/struts-menu-2.4.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/struts-taglib-1.3.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/struts-tiles-1.3.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/urlrewritefilter-4.0.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/velocity-1.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/velocity-tools-2.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/woodstox-core-asl-4.2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/wro4j-core-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/wsdl4j-1.6.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/xml-apis-1.4.01.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/xml-resolver-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/xmlschema-core-2.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/menu-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/admin/activeUsers.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/admin/userList.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/dataAccessFailure.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/fileupload.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/home.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/signup.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/updatePasswordForm.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/uploadDisplay.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/userform.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/resin-web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/security.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/sitemesh.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/tags/assets.tag" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/urlrewrite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/validation.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/validator-rules-custom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/validator-rules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/wro.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/wro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/common/menu.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/common/messages.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/common/taglibs.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/decorators/default.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/error.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/arrow_off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/arrow_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/ico_file_csv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/ico_file_excel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/ico_file_pdf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/ico_file_xml.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/iconCalendar.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/iconEmail.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/iconHelp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/iconInformation.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/iconWarning.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/login.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/logout.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/scripts/dojo/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/scripts/login.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/scripts/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/scripts/validator.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/styles/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/TEST-com.freelance.webapp.controller.PasswordHintControllerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/TEST-com.freelance.webapp.controller.SignupControllerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/TEST-com.freelance.webapp.controller.UpdatePasswordControllerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/TEST-com.freelance.webapp.controller.UserControllerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/TEST-com.freelance.webapp.controller.UserFormControllerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/TEST-com.freelance.webapp.filter.LocaleFilterTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/TEST-com.freelance.webapp.listener.StartupListenerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/com.freelance.webapp.controller.PasswordHintControllerTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/com.freelance.webapp.controller.SignupControllerTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/com.freelance.webapp.controller.UpdatePasswordControllerTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/com.freelance.webapp.controller.UserControllerTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/com.freelance.webapp.controller.UserFormControllerTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/com.freelance.webapp.filter.LocaleFilterTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/surefire-reports/com.freelance.webapp.listener.StartupListenerTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/applicationContext-validation.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/cxf-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/decorators.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/dispatcher-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/dwr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/menu-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/resin-web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/security.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/sitemesh.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/urlrewrite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/validation.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/validator-rules-custom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/validator-rules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/WEB-INF/wro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/com/freelance/webapp/controller/BaseControllerTestCase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/com/freelance/webapp/controller/PasswordHintControllerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/com/freelance/webapp/controller/SignupControllerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/com/freelance/webapp/controller/UpdatePasswordControllerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/com/freelance/webapp/controller/UserControllerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/com/freelance/webapp/controller/UserFormControllerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/com/freelance/webapp/filter/LocaleFilterTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/com/freelance/webapp/filter/MockFilterChain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/com/freelance/webapp/listener/StartupListenerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/config.xmlf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/login.xmlf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/sample-data.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/sample-data.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/test-classes/web-tests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/tmp/jsp/org/apache/jsp/_404_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/tmp/jsp/org/apache/jsp/_404_jsp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/tmp/jsp/org/apache/jsp/decorators/default_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/tmp/jsp/org/apache/jsp/decorators/default_jsp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/tmp/jsp/org/apache/jsp/login_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/tmp/jsp/org/apache/jsp/login_jsp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/tmp/jsp/org/apache/jsp/tag/webassets_tag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/tmp/jsp/org/apache/jsp/tag/webassets_tag.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/one-core-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/core/target/one-core-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/BaseFormController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/FileUpload.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/FileUploadController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/PasswordHintController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/ReloadController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/SignupController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/UpdatePasswordController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/UserController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/controller/UserFormController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/filter/LocaleFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/filter/LocaleRequestWrapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/jsp/EscapeXml.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/jsp/EscapeXmlELResolver$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/jsp/EscapeXmlELResolver.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/jsp/EscapeXmlELResolverListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/listener/StartupListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/listener/UserCounterListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/spring/ValidatorExtensionPostProcessor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/taglib/ConstantsTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/taglib/ConstantsTei.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/taglib/CountryTag$LabelValueComparator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/taglib/CountryTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/taglib/LabelTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/taglib/OutTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/util/RequestUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/com/freelance/webapp/util/ValidationUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/BaseFormController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/FileUpload.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/FileUploadController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/PasswordHintController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/ReloadController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/SignupController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/UpdatePasswordController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/UserController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/controller/UserFormController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/filter/LocaleFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/filter/LocaleRequestWrapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/jsp/EscapeXml.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/jsp/EscapeXmlELResolver$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/jsp/EscapeXmlELResolver.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/jsp/EscapeXmlELResolverListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/listener/StartupListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/listener/UserCounterListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/spring/ValidatorExtensionPostProcessor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/taglib/ConstantsTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/taglib/ConstantsTei.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/taglib/CountryTag$LabelValueComparator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/taglib/CountryTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/taglib/LabelTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/taglib/OutTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/util/RequestUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/com/freelance/webapp/util/ValidationUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/activation-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/appfuse-data-common-3.5.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/appfuse-hibernate-3.5.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/appfuse-service-3.5.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/appfuse-web-common-3.5.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/asm-3.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/aspectjrt-1.8.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/avro-1.7.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bcmail-jdk14-1.38.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bcmail-jdk14-138.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bcprov-jdk14-1.38.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bcprov-jdk14-138.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bctsp-jdk14-1.38.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bootstrap-3.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bootstrap-datepicker-1.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/bootswatch-spacelab-3.3.1+2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.9.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-chain-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-compress-1.4.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-dbcp-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-digester-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-lang-2.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-pool-1.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/commons-validator-1.3.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-core-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-bindings-soap-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-bindings-xml-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-databinding-jaxb-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-frontend-jaxrs-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-frontend-jaxws-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-frontend-simple-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-transports-http-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-ws-addr-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-ws-policy-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/cxf-rt-wsdl-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/displaytag-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/dwr-2.0.10.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/ehcache-core-2.6.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/ehcache-web-2.0.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-4.0.5.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-core-4.3.6.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-ehcache-4.3.6.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-search-4.5.1.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-search-analyzers-4.5.1.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-search-engine-4.5.1.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-search-orm-4.5.1.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/itext-2.1.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.4.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.4.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-asl-1.9.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.4.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-jaxrs-base-2.4.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-jaxrs-json-provider-2.4.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-module-jaxb-annotations-2.4.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jandex-1.1.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.18.1-GA.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/javax.annotation-api-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/javax.ws.rs-api-2.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jaxb-api-2.2.11.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jaxb-core-2.2.10-b140310.1920.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jaxb-impl-2.2.10-b140310.1920.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.2.0.Beta1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-annotations-1.2.0.Beta1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jquery-1.11.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jquery-cookie-1.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/js-1.6R2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2-api-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-api-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-core-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-jcl-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-slf4j-impl-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-web-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-analyzers-3.6.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-core-3.6.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-facet-3.6.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-smartcn-3.6.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-stempel-3.6.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/mail-1.4.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/mockito-core-1.10.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.27.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/neethi-3.0.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/objenesis-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/one-core-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/oro-2.0.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/paranamer-2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/sitemesh-2.4.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/solr-analysis-extras-3.6.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-1.9.1.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-ldap-core-2.0.2.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-modules-validation-0.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-security-acl-3.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-security-config-3.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-security-core-3.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-security-ldap-3.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-security-taglibs-3.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-security-web-3.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/sslext-1.2-0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/stax2-api-3.1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/struts-core-1.3.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/struts-menu-2.4.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/struts-taglib-1.3.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/struts-tiles-1.3.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/urlrewritefilter-4.0.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/velocity-1.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/velocity-tools-2.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/woodstox-core-asl-4.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/wro4j-core-1.7.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/wsdl4j-1.6.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/xml-apis-1.4.01.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/xml-resolver-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/lib/xmlschema-core-2.1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/arrow_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/arrow_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/banners/banner 1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/banners/banner 2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/banners/banner 3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/banners/banner 4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/banners/banner 5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/banners/banner 6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/banners/banner.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/ico_file_csv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/ico_file_excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/ico_file_pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/ico_file_xml.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/iconCalendar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/iconEmail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/iconHelp.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/iconInformation.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/iconWarning.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/partners/ifrc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/partners/logo.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/partners/mayo_clinic-712_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/images/partners/who-logo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_ca.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_de.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_el.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_en.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_es.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_fr.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_it.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_ko.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_nl.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_no.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_pl.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_pt.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_pt_BR.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_tr.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_zh.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_zh_CN.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ApplicationResources_zh_TW.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/META-INF/persistence.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/accountCreated.vm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/applicationContext-resources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/displaytag.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/displaytag_ca.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/displaytag_el.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/displaytag_en.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/displaytag_es.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/displaytag_fr.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/displaytag_pt.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/displaytag_tr.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/displaytag_zh.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/displaytag_zh_CN.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/displaytag_zh_TW.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/ehcache.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/navbarMenu.vm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/navlistMenu.vm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/packaged/hibernate.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/passwordRecovery.vm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/passwordUpdated.vm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/script/consolidated-script.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/classes/velocity.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/403.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/404.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/appfuse.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/applicationContext-validation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_ca.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_de.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_el.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_en.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_es.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_fr.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_it.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_ko.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_nl.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_no.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_pl.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_pt.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_pt_BR.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_tr.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_zh.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_zh_CN.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ApplicationResources_zh_TW.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/META-INF/persistence.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/accountCreated.vm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/applicationContext-resources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/default-data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_ca.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_el.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_en.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_es.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_fr.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_pt.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_tr.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_zh.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_zh_CN.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/displaytag_zh_TW.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/ehcache.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/navbarMenu.vm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/navlistMenu.vm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/packaged/hibernate.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/passwordRecovery.vm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/passwordUpdated.vm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/script/consolidated-script.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/velocity.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/cxf-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/decorators.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/dispatcher-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/dwr.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/menu-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/admin/activeUsers.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/admin/userList.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/dataAccessFailure.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/fileupload.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/home.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/signup.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/updatePasswordForm.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/uploadDisplay.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/pages/userform.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/resin-web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/security.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/sitemesh.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/tags/assets.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/urlrewrite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/validation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/validator-rules-custom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/validator-rules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/wro.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/wro.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/common/menu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/common/messages.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/common/taglibs.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/decorators/default.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/logout.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/scripts/dojo/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/scripts/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/scripts/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/scripts/validator.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/styles/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/styles/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/core/target/test-classes/hibernate.properties" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/hibernate.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/core/target/test-classes/log4j2.xml" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/log4j2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/core/target/test-classes/mail.properties" afterPath="$PROJECT_DIR$/web/target/one-web-1.0-SNAPSHOT/WEB-INF/classes/mail.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/core/target/test-classes/sample-data.xml" afterPath="$PROJECT_DIR$/web/target/classes/default-data.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/schema.sql" afterPath="$PROJECT_DIR$/core/target/schema.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/pom.xml" afterPath="$PROJECT_DIR$/web/pom.xml" />
     </list>
     <ignored path="one.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -448,17 +401,27 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="security.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/security.xml">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3655914">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.13905326">
+              <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="108" column="39" selection-start-line="108" selection-start-column="39" selection-end-line="108" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -477,7 +440,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/README.txt" />
         <option value="$PROJECT_DIR$/web/src/main/webapp/common/menu.jsp" />
         <option value="$PROJECT_DIR$/web/src/main/webapp/scripts/login.js" />
@@ -485,6 +447,9 @@
         <option value="$PROJECT_DIR$/web/src/main/resources/script/consolidated-script.sql" />
         <option value="$PROJECT_DIR$/web/src/main/webapp/login.jsp" />
         <option value="$PROJECT_DIR$/web/src/main/webapp/styles/style.css" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/pom.xml" />
       </list>
     </option>
   </component>
@@ -1069,7 +1034,7 @@
       <workItem from="1512704838682" duration="1430000" />
       <workItem from="1512706306994" duration="1812000" />
       <workItem from="1512708786514" duration="133000" />
-      <workItem from="1512714497667" duration="3197000" />
+      <workItem from="1512714497667" duration="5324000" />
     </task>
     <task id="LOCAL-00001" summary="read me commit">
       <created>1512714680449</created>
@@ -1083,24 +1048,51 @@
       <option name="project" value="LOCAL" />
       <updated>1512717455576</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="removing target folder">
+      <created>1512717733860</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1512717733860</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dest to exclude target&#10;">
+      <created>1512719173301</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1512719173301</updated>
+    </task>
+    <task id="LOCAL-00005" summary="remove target">
+      <created>1512719208625</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1512719208625</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6572000" />
+    <option name="totallyTimeSpent" value="8699000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23524962" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47893915" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42901716" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.349454" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1130,7 +1122,9 @@
     <MESSAGE value="read me commit" />
     <MESSAGE value="style changes" />
     <MESSAGE value="removing target folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing target folder" />
+    <MESSAGE value="dest to exclude target&#10;" />
+    <MESSAGE value="remove target" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove target" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1213,6 +1207,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/src/main/webapp/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1224,15 +1226,23 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/security.xml">
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3655914">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="108" column="39" selection-start-line="108" selection-start-column="39" selection-end-line="108" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13905326">
+          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
           <folding />
         </state>
       </provider>

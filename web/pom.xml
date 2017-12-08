@@ -23,10 +23,6 @@
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>native2ascii-maven-plugin</artifactId>
-                <configuration>
-                    <dest>target/classes</dest>
-                    <src>src/main/resources</src>
-                </configuration>
                 <executions>
                     <execution>
                         <id>native2ascii-utf8</id>
