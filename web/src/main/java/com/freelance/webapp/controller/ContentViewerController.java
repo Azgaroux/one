@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletRequest;
 @RequestMapping("/content*")
 public class ContentViewerController extends BaseFormController {
 
-    @Autowired
+//    @Autowired
 //    ContentManager contentManager;
 
     public ContentViewerController() {
