@@ -1,0 +1,9 @@
+com\freelance\webapp\controller\BaseControllerTestCase.class
+com\freelance\webapp\listener\StartupListenerTest.class
+com\freelance\webapp\filter\MockFilterChain.class
+com\freelance\webapp\filter\LocaleFilterTest.class
+com\freelance\webapp\controller\SignupControllerTest.class
+com\freelance\webapp\controller\PasswordHintControllerTest.class
+com\freelance\webapp\controller\UpdatePasswordControllerTest.class
+com\freelance\webapp\controller\UserControllerTest.class
+com\freelance\webapp\controller\UserFormControllerTest.class
