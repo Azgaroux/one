@@ -127,12 +127,12 @@ ul.feedbackPanel {
 }
 
 #login p {
-    text-align: center
+    /*text-align: center*/
 }
 
 /* When using Wicket tag id can be overridden - using class here seems to more universal */
 .login p {
-    text-align: center
+    /*text-align: center*/
 }
 
 /* TABLES */
