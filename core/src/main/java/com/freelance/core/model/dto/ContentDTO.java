@@ -1,4 +1,4 @@
-package com.freelance.webapp.models.dto;
+package com.freelance.core.model.dto;
 
 /**
  * Created by Scrum on 12/8/2017.

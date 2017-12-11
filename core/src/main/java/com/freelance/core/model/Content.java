@@ -1,7 +1,7 @@
-package com.freelance.webapp.models;
+package com.freelance.core.model;
 
 
-import com.freelance.webapp.models.reference.AuditTrace;
+import com.freelance.core.model.reference.AuditTrace;
 import org.appfuse.model.BaseObject;
 
 import javax.persistence.*;

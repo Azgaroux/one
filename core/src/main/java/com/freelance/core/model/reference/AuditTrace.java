@@ -1,4 +1,4 @@
-package com.freelance.webapp.models.reference;
+package com.freelance.core.model.reference;
 
 import javax.persistence.*;
 import java.io.Serializable;
