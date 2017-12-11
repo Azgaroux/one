@@ -58,10 +58,5 @@
             <artifactId>appfuse-${dao.framework}</artifactId>
             <version>${appfuse.version}</version>
         </dependency>
-        <dependency>
-            <groupId>com.googlecode.genericdao</groupId>
-            <artifactId>dao-hibernate</artifactId>
-            <version>1.0.0</version>
-        </dependency>
     </dependencies>
 </project>
